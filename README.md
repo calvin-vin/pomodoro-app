@@ -1,24 +1,24 @@
-# pomodoro-app
+# Pomodoro Clock
 
-## Project setup
-```
-npm install
-```
+This project following tutorial from Gwendolyn Faraday and I make some adjustment
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. User can start timer
+2. User can stop timer
+3. User can reset timer
+4. User can choose timer, short break, or long break
+5. User can see seconds count down
+6. User can set number of minutes for each type of timer
+7. The timer will automatically reset if timer has run out
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tech Stack
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Vue.js
+* Vue CLI
+* MBD (Material Design for Bootstrap and Vue)
+
+## Layouts
+
+<img src="layout/1.png">
+<img src="layout/2.png">
