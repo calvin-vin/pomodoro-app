@@ -21,4 +21,3 @@ This project following tutorial from Gwendolyn Faraday and I make some adjustmen
 ## Layouts
 
 <img src="layout/1.png">
-<img src="layout/2.png">
