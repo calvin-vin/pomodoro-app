@@ -10,7 +10,7 @@ This project following tutorial from Gwendolyn Faraday and I make some adjustmen
 4. User can choose timer, short break, or long break
 5. User can see seconds count down
 6. User can set number of minutes for each type of timer
-7. The timer will automatically reset if timer has run out
+7. The timer will automatically reset if the timer has run out
 
 ## Tech Stack
 
