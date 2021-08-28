@@ -1,6 +1,6 @@
 # Pomodoro Clock
 
-This project following tutorial from Gwendolyn Faraday and I make some adjustment
+This project is following tutorial from Gwendolyn Faraday and I make some changes and adjustment
 
 ## Features
 
